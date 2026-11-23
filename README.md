@@ -15,10 +15,12 @@ Boolean Functions
 <img width="575" height="65" alt="image" src="https://github.com/user-attachments/assets/04c2d90c-0b6b-4b35-b603-d0e10e1e4f00" />
 
 ## Design / RTL Program
+<img width="312" height="285" alt="image" src="https://github.com/user-attachments/assets/0725ae48-968f-4b1e-b103-7e0db842e99a" />
 
 
 ## **Testbench Program
 
+<img width="471" height="443" alt="image" src="https://github.com/user-attachments/assets/0e8233f1-46d2-4c06-ba49-5ed91dc23698" />
 
 
 ## Truth Table
@@ -86,25 +88,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Output
 
 
-## Viva-Voce Questions
-
-•	What is a Multiplexer, and why is it called a 'data selector'?
-
-•	What is a Demultiplexer, and how does it differ functionally from a Multiplexer?
-
-•	How many select lines are required for an 8:1 MUX and a 1:8 DEMUX?
-
-•	Write the Boolean expression for a 4:1 Multiplexer.
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-•	What is the purpose of ./simv?
-
-•	What is the difference between simulation and synthesis?
-
-•	How would you extend the 2:1 MUX design to a 4:1 MUX using two 2:1 MUXes?
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/b442839b-6aa8-453b-b583-d855b8f17fe6" />
 
 ## Result
 
